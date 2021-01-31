@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"xorm.io/builder"
+	"github.com/tdwiid/builder"
 	"github.com/tdwiid/xorm/caches"
 	"github.com/tdwiid/xorm/internal/statements"
 	"github.com/tdwiid/xorm/internal/utils"
