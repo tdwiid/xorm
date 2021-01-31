@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"strings"
 
-	"gitea.com/xorm/builder"
+	"github.com/tdwiid/builder"
 	"github.com/tdwiid/xorm/schemas"
 )
 
