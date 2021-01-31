@@ -12,14 +12,14 @@ import (
 	"strings"
 	"time"
 
-	"xorm.io/builder"
-	"xorm.io/xorm/contexts"
-	"xorm.io/xorm/convert"
-	"xorm.io/xorm/dialects"
-	"xorm.io/xorm/internal/json"
-	"xorm.io/xorm/internal/utils"
-	"xorm.io/xorm/schemas"
-	"xorm.io/xorm/tags"
+	"github.com/tdwiid/builder"
+	"github.com/tdwiid/xorm/contexts"
+	"github.com/tdwiid/xorm/convert"
+	"github.com/tdwiid/xorm/dialects"
+	"github.com/tdwiid/xorm/internal/json"
+	"github.com/tdwiid/xorm/internal/utils"
+	"github.com/tdwiid/xorm/schemas"
+	"github.com/tdwiid/xorm/tags"
 )
 
 var (
