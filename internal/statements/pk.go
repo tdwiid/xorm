@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"xorm.io/builder"
-	"xorm.io/xorm/schemas"
+	"github.com/tdwiid/builder"
+	"github.com/tdwiid/xorm/schemas"
 )
 
 var (
