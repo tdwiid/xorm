@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"xorm.io/builder"
-	"xorm.io/xorm/schemas"
+	"github.com/tdwiid/builder"
+	"github.com/tdwiid/xorm/schemas"
 )
 
 func quoteNeeded(a interface{}) bool {
