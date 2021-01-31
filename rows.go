@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"gitea.com/xorm/builder"
+	"github.com/tdwiid/builder"
 	"github.com/tdwiid/xorm/core"
 	"github.com/tdwiid/xorm/internal/utils"
 )
