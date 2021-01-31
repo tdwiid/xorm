@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"xorm.io/builder"
+	"github.com/tdwiid/builder"
 )
 
 func TestBuilder(t *testing.T) {
