@@ -8,8 +8,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"xorm.io/builder"
-	"xorm.io/xorm/schemas"
+	"github.com/tdwiid/builder"
+	"github.com/tdwiid/xorm/schemas"
 )
 
 func TestSetExpr(t *testing.T) {
