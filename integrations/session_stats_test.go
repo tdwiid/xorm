@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"gitea.com/xorm/builder"
+	"github.com/tdwiid/builder"
 )
 
 func isFloatEq(i, j float64, precision int) bool {
