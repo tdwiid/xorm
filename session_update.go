@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"xorm.io/builder"
+	"tdwiid/builder"
 	"github.com/tdwiid/xorm/caches"
 	"github.com/tdwiid/xorm/internal/utils"
 	"github.com/tdwiid/xorm/schemas"
